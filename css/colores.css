@@ -15,13 +15,19 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
+<<<<<<< HEAD
     padding: 0.5em 0 0.5em 2em;
 }
 #cabecera #logo
 {
     width: 151px;
     vertical-align: middle;
+=======
+    padding: 0.5em;
+>>>>>>> footer
 }
+#Cabecera #logo
+{}
 #cabecera #tagline
 {
     padding: 0 0 0 1cm;
@@ -40,12 +46,24 @@ margin: 0 auto;
 {
     font-size: 48px;
 }
+<<<<<<< HEAD
 #container h1
 {
     font-size: 20px;
+=======
+#footer
+{
+    background: darkgoldenrod;
+    color: white;
+    text-align: center;
+>>>>>>> footer
 }
 #post
 {
     background: white;
+<<<<<<< HEAD
     padding: 1em;
 }
+=======
+    padding: 1em;
+>>>>>>> footer
