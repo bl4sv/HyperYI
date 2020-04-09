@@ -19,7 +19,7 @@ body
 }
 #cabecera #logo
 {
-    width: 150px;
+    width: 151px;
     vertical-align: middle;
 }
 #cabecera #tagline
@@ -40,12 +40,13 @@ margin: 0 auto;
 {
     font-size: 48px;
 }
-#container h1
+#footer
 {
-    font-size: 20px;
+    background: darkgoldenrod;
+    color: white;
+    text-align: center;
 }
 #post
 {
     background: white;
     padding: 1em;
-}
